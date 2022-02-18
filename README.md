@@ -1,1 +1,1 @@
-< Hi, I’m Hikmat Rajabli! >
+Hi, I’m Hikmat Rajabli!
