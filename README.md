@@ -2,7 +2,7 @@
   <b>Hikmat Rajabli</b>
 </h1>
 
-Hi! I'm Hikmat Rajabli, a student currently living in Baku, Azerbaijan. 
+Hi! I'm Hikmat Rajabli, a student currently living in Baku, Azerbaijan. ![Profile views](https://gpvc.arturio.dev/iamrajabli) 
 
 <br>
 
