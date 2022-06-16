@@ -1,8 +1,7 @@
 <h1 align="center">
   <b>Hikmat Rajabli</b>
 </h1>
-
-#### Hi! I'm Hikmat Rajabli, a student currently living in Baku, Azerbaijan. 
+ 
 #### Contact: iamrajabli@outlook.com
 
 ![Profile views](https://gpvc.arturio.dev/iamrajabli) 
